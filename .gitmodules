@@ -1,0 +1,3 @@
+[submodule "chalk"]
+	path = chalk
+	url = git@github.com:chalk/chalk.git

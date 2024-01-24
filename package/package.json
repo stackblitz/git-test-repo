@@ -1,0 +1,7 @@
+{
+  "name": "git-test-repo-package",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
